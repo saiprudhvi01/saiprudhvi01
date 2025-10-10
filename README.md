@@ -1,105 +1,131 @@
-# 👋 Hi, I'm Sai Prudhvi Bodempudi
+👋 Hi, I'm Sai Prudhvi Bodempudi
 
-🎓 Computer Science Undergraduate at Kalasalingam Academy of Research and Education (2025)  
-💡 AI & ML Enthusiast | System Design Learner | Open Source Explorer  
-📍 Based in India  
-📫 saiprudhvibodempudi11@gmail.com
+🎓 Computer Science Graduate (AI & ML) – Kalasalingam Academy of Research and Education (2025)
+💡 AI | Machine Learning | Deep Learning | Computer Vision | Full-Stack Development
+📍 India | 📫 saiprudhvibodempudi11@gmail.com
 
----
+🔗 Portfolio
+ · LinkedIn
+ · GitHub
 
-## 🔍 Objective
-Computer Science undergraduate with a strong foundation in AI, ML, and system design, seeking to contribute to innovative tech solutions while growing in a collaborative environment.
+🎯 Objective
 
----
+Computer Science graduate with expertise in AI, ML, Deep Learning, and Computer Vision, passionate about developing intelligent, data-driven, and scalable software systems. Skilled in Python, C++, and full-stack development, I aim to contribute to innovative solutions in Software Engineering, AI/ML, Robotics, and Computer Vision domains.
 
-## 🛠️ Skills
+🧠 Technical Skills
+💻 Programming Languages
 
-### 👨‍💻 Programming
-- Python
+Python · C++ · QML · JavaScript · SQL · HTML · CSS
 
-### 💾 Databases
-- SQL
+🤖 AI/ML & NLP
 
-### 🚀 Technologies & Frameworks
-- Machine Learning
-- Deep Learning
-- Basic System Design
+Machine Learning · Deep Learning · Natural Language Processing
 
-### 🧠 Soft Skills
-- Team Management
-- Fast Learning
-- Communication
+Large Language Models (GPT, Claude)
 
----
+Prompt Engineering · Explainable AI (SHAP, LIME) · Causal AI
 
-## 🎓 Education
+🧩 Frameworks & Libraries
 
-- **B.Tech in Computer Science and Engineering**  
-  Kalasalingam Academy of Research and Education  
-  📅 Expected: 2025 | 🎯 CGPA: 8.1
+Flask · Streamlit · OpenCV · MediaPipe · ANN
 
-- **Intermediate Education**  
-  Sri Chaitanya Junior College  
-  📅 Passed: 2021 | 🎯 Percentage: 91.8%
+⚙️ Tools & Platforms
 
-- **Secondary Education**  
-  Nirmala High School  
-  📅 Passed: 2019 | 🎯 Percentage: 90%
+Git · GitHub · Linux · Jupyter Notebook · VS Code
 
----
+Render · Median · Kaggle · Webots · QGIS (OSM Control) · Windsurf · WARP · Cursor
 
-## 💼 Internship
+📚 Concepts & Methodologies
 
-### Pheme Software Pvt Ltd – *Machine Learning Intern*  
-🗓️ May – June 2024  
-- Conducted sentiment analysis on product reviews.
-- Applied NLP techniques to assess and categorize sentiments.
-- Delivered actionable insights to assist product decision-making.
+Full-Stack Development · Feature Engineering · Data Analytics
 
----
+Predictive Modeling · Agile Development · Embedded Systems
 
-## 🚀 Projects
+💼 Experience
+🧑‍💻 IIT Bhubaneswar – Software Engineering Intern
 
-### 🩺 Multiple Disease Prediction
-> Developed a tool for disease prediction using X-ray images, symptoms, and recommendation logic.  
-**Tech**: Python, Machine Learning, X-ray Image Analysis
+📆 May 2023 – Completed
 
-### 🧏 Indian Sign Language Detection
-> Created a real-time system converting sign images to text and speech.  
-**Tech**: Python, OpenCV, Text-to-Speech
+Developed robotics software modules in Python and C++, improving operational efficiency by 15%.
 
-### 🧠 Alzheimer's Disease Prediction
-> Used Recursive Feature Elimination with Artificial Neural Networks for early detection.  
-**Tech**: Python, RFE, ANN
+Built cross-platform UIs using QML for autonomous systems, cutting user interaction time by 20%.
 
----
+Integrated sensors and cameras, achieving 99.5% real-time data availability in robotic operations.
 
-## 📄 Publication
+Leveraged OpenCV and MediaPipe for computer vision, reducing latency by 10%.
 
-- **Alzheimer's Disease Prediction Using Recursive Feature Elimination and Artificial Neural Network**  
-  📘 IEEE Xplore | DOI: [10.1109/NMITCON58196.2023.10276170](https://doi.org/10.1109/NMITCON58196.2023.10276170)
+🚀 Projects
+🤖 Martin – Robotic Mannequin Navigation System
 
----
+Tech: Python, C++, QML, OpenCV, Embedded Systems
 
-## 🏅 Achievements
+Designed an autonomous navigation module using offline maps and waypoint tracking, achieving 99% pathfinding accuracy.
 
-- 🧠 Microsoft Certified AI Engineer  
-- 📊 Oracle Certified Machine Learning Professional  
-- 🥇 1st Place - IBM ICE Day Technical Paper Presentation  
+🌾 Agri Guru – Farmer Assistant Platform
 
----
+Tech: Python, Streamlit, Twilio, NASA POWER API, ML, Data Analytics
 
-## 📈 GitHub Stats
+Built an IVR-based crop recommendation platform, assisting 500+ farmers with real-time and data-driven insights.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiprudhvi01&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiprudhvi01&layout=compact&theme=tokyonight)
+🧠 Driver Drowsiness Detection System
 
----
+Tech: Python, MediaPipe, Computer Vision
 
-## 🌐 Connect with Me
+Engineered a real-time driver alert system achieving 95% fatigue detection accuracy using face landmark detection.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saiprudhvi-bodempudi11)  
-[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/saiprudhvi01)  
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:saiprudhvibodempudi11@gmail.com)
+🩺 Multiple Disease Prediction Tool
 
----
+Tech: Python, ML, Image Processing, SHAP, LIME
+
+Developed a diagnostic ML tool with 97% accuracy and integrated Explainable AI (SHAP, LIME) for interpretability.
+
+🧬 Causal AI-based Alzheimer’s Disease Prediction
+
+Tech: Python, ANN, Recursive Feature Elimination
+
+Improved early Alzheimer detection by 20% using Causal AI and RFE-driven ANN models.
+
+🏆 Hackathons
+
+🥈 Infosys Global Hackathon (Hyderabad Region) – 2nd Place
+Built an offline-first IVR Farmer Assistant platform, outperforming 100+ teams.
+
+📘 Publication
+
+Alzheimer’s Disease Prediction Using Recursive Feature Elimination and ANN
+📚 IEEE Xplore | DOI: 10.1109/NMITCON58196.2023.10276170
+
+🎓 Education
+
+B.Tech in Computer Science and Engineering (AIML)
+Kalasalingam Academy of Research and Education – 2025
+🎯 Percentage: 81% | Tamil Nadu
+
+Intermediate Education
+Sri Chaitanya Junior College – 2021
+🎯 Percentage: 92% | Andhra Pradesh
+
+Secondary Education
+Nirmala High School – 2019
+🎯 Percentage: 90% | Andhra Pradesh
+
+🧾 Certifications & Achievements
+
+🧠 Microsoft Certified AI Engineer
+
+📊 Oracle Certified Machine Learning Professional
+
+🥇 1st Place – IBM ICE Day Technical Paper Presentation
+
+📈 GitHub Insights
+
+
+
+
+🌐 Connect with Me
+
+
+
+
+
+
