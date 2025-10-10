@@ -1,130 +1,99 @@
 👋 Hi, I'm Sai Prudhvi Bodempudi
 
-🎓 Computer Science Graduate (AI & ML) – Kalasalingam Academy of Research and Education (2025)
-💡 AI | Machine Learning | Deep Learning | Computer Vision | Full-Stack Development
-📍 India | 📫 saiprudhvibodempudi11@gmail.com
+🎓 Computer Science Undergraduate at Kalasalingam Academy of Research and Education (2025)
+💡 AI & ML Enthusiast | System Design Learner | Open Source Explorer
+📍 Based in India
+📫 saiprudhvibodempudi11@gmail.com
 
-🔗 Portfolio
- · LinkedIn
- · GitHub
+🔍 Objective
 
-🎯 Objective
+Computer Science undergraduate with a strong foundation in AI, ML, and system design, seeking to contribute to innovative tech solutions while growing in a collaborative environment.
 
-Computer Science graduate with expertise in AI, ML, Deep Learning, and Computer Vision, passionate about developing intelligent, data-driven, and scalable software systems. Skilled in Python, C++, and full-stack development, I aim to contribute to innovative solutions in Software Engineering, AI/ML, Robotics, and Computer Vision domains.
+🛠️ Skills
+👨‍💻 Programming
 
-🧠 Technical Skills
-💻 Programming Languages
+Python
 
-Python · C++ · QML · JavaScript · SQL · HTML · CSS
+💾 Databases
 
-🤖 AI/ML & NLP
+SQL
 
-Machine Learning · Deep Learning · Natural Language Processing
+🚀 Technologies & Frameworks
 
-Large Language Models (GPT, Claude)
+Machine Learning
 
-Prompt Engineering · Explainable AI (SHAP, LIME) · Causal AI
+Deep Learning
 
-🧩 Frameworks & Libraries
+Basic System Design
 
-Flask · Streamlit · OpenCV · MediaPipe · ANN
+🧠 Soft Skills
 
-⚙️ Tools & Platforms
+Team Management
 
-Git · GitHub · Linux · Jupyter Notebook · VS Code
+Fast Learning
 
-Render · Median · Kaggle · Webots · QGIS (OSM Control) · Windsurf · WARP · Cursor
-
-📚 Concepts & Methodologies
-
-Full-Stack Development · Feature Engineering · Data Analytics
-
-Predictive Modeling · Agile Development · Embedded Systems
-
-💼 Experience
-🧑‍💻 IIT Bhubaneswar – Software Engineering Intern
-
-📆 May 2023 – Completed
-
-Developed robotics software modules in Python and C++, improving operational efficiency by 15%.
-
-Built cross-platform UIs using QML for autonomous systems, cutting user interaction time by 20%.
-
-Integrated sensors and cameras, achieving 99.5% real-time data availability in robotic operations.
-
-Leveraged OpenCV and MediaPipe for computer vision, reducing latency by 10%.
-
-🚀 Projects
-🤖 Martin – Robotic Mannequin Navigation System
-
-Tech: Python, C++, QML, OpenCV, Embedded Systems
-
-Designed an autonomous navigation module using offline maps and waypoint tracking, achieving 99% pathfinding accuracy.
-
-🌾 Agri Guru – Farmer Assistant Platform
-
-Tech: Python, Streamlit, Twilio, NASA POWER API, ML, Data Analytics
-
-Built an IVR-based crop recommendation platform, assisting 500+ farmers with real-time and data-driven insights.
-
-🧠 Driver Drowsiness Detection System
-
-Tech: Python, MediaPipe, Computer Vision
-
-Engineered a real-time driver alert system achieving 95% fatigue detection accuracy using face landmark detection.
-
-🩺 Multiple Disease Prediction Tool
-
-Tech: Python, ML, Image Processing, SHAP, LIME
-
-Developed a diagnostic ML tool with 97% accuracy and integrated Explainable AI (SHAP, LIME) for interpretability.
-
-🧬 Causal AI-based Alzheimer’s Disease Prediction
-
-Tech: Python, ANN, Recursive Feature Elimination
-
-Improved early Alzheimer detection by 20% using Causal AI and RFE-driven ANN models.
-
-🏆 Hackathons
-
-🥈 Infosys Global Hackathon (Hyderabad Region) – 2nd Place
-Built an offline-first IVR Farmer Assistant platform, outperforming 100+ teams.
-
-📘 Publication
-
-Alzheimer’s Disease Prediction Using Recursive Feature Elimination and ANN
-📚 IEEE Xplore | DOI: 10.1109/NMITCON58196.2023.10276170
+Communication
 
 🎓 Education
 
-B.Tech in Computer Science and Engineering (AIML)
-Kalasalingam Academy of Research and Education – 2025
-🎯 Percentage: 81% | Tamil Nadu
+B.Tech in Computer Science and Engineering
+Kalasalingam Academy of Research and Education
+📅 Expected: 2025 | 🎯 CGPA: 8.1
 
 Intermediate Education
-Sri Chaitanya Junior College – 2021
-🎯 Percentage: 92% | Andhra Pradesh
+Sri Chaitanya Junior College
+📅 Passed: 2021 | 🎯 Percentage: 91.8%
 
 Secondary Education
-Nirmala High School – 2019
-🎯 Percentage: 90% | Andhra Pradesh
+Nirmala High School
+📅 Passed: 2019 | 🎯 Percentage: 90%
 
-🧾 Certifications & Achievements
+💼 Internship
+Pheme Software Pvt Ltd – Machine Learning Intern
+
+🗓️ May – June 2024
+
+Conducted sentiment analysis on product reviews.
+
+Applied NLP techniques to assess and categorize sentiments.
+
+Delivered actionable insights to assist product decision-making.
+
+🚀 Projects
+🩺 Multiple Disease Prediction
+
+Developed a tool for disease prediction using X-ray images, symptoms, and recommendation logic.
+Tech: Python, Machine Learning, X-ray Image Analysis
+
+🧏 Indian Sign Language Detection
+
+Created a real-time system converting sign images to text and speech.
+Tech: Python, OpenCV, Text-to-Speech
+
+🧠 Alzheimer's Disease Prediction
+
+Used Recursive Feature Elimination with Artificial Neural Networks for early detection.
+Tech: Python, RFE, ANN
+
+📄 Publication
+
+Alzheimer's Disease Prediction Using Recursive Feature Elimination and Artificial Neural Network
+📘 IEEE Xplore | DOI: 10.1109/NMITCON58196.2023.10276170
+
+🏅 Achievements
 
 🧠 Microsoft Certified AI Engineer
 
 📊 Oracle Certified Machine Learning Professional
 
-🥇 1st Place – IBM ICE Day Technical Paper Presentation
+🥇 1st Place - IBM ICE Day Technical Paper Presentation
 
-📈 GitHub Insights
+📈 GitHub Stats
 
 
 
 
 🌐 Connect with Me
-
-
 
 
 
