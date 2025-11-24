@@ -90,11 +90,22 @@ Open to opportunities in **Software Engineering**, **AI/ML**, **Robotics**, and 
 
 ## 💼 Experience  
 
+**Vir Innovations – Software Engineering Intern (On-Site)** *(Sep 2025 – Present)*  
+- Built robotics software modules in Python, improving overall system responsiveness  
+- Enhanced automation workflows for faster and more reliable robotic operations  
+- Collaborated with hardware & software teams to integrate modules into real-time systems  
+
+**Pheme Software Pvt Ltd – AI/ML Intern (Remote)** *(Completed)*  
+- Developed an NLP-based Sentiment Analysis system enhanced with **Explainable AI (XAI)**  
+- Designed ML/DL pipelines for scalable AI-driven applications  
+- Implemented Python, NLP, and Computer Vision components for intelligent automation  
+
 **IIT Bhubaneswar – Software Engineering Intern** *(May 2023 – Completed)*  
 - Developed robotics software modules in Python & C++, boosting efficiency by **15%**  
 - Built cross-platform UIs in QML for autonomous systems, reducing user time by **20%**  
 - Integrated sensors & cameras with **99.5% real-time data availability**  
 - Applied OpenCV & MediaPipe for real-time computer vision, cutting latency by **10%**  
+
 
 ---
 
