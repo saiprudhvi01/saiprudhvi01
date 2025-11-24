@@ -112,31 +112,33 @@ Open to opportunities in **Software Engineering**, **AI/ML**, **Robotics**, and 
 ## 🚀 Projects  
 
 ### 🤖 Martin – Robotic Mannequin Navigation System  
-*Python, C++, QML, OpenCV, Embedded Systems*  
-- Autonomous navigation with offline maps & waypoints, **99% pathfinding accuracy**  
+*Python, QML, OpenCV, Embedded Systems*  
+- Developed an autonomous navigation system using offline OSM maps with LiDAR obstacle detection and SLAM  
 
-### 🌾 Agri Guru – Farmer Assistant Platform  
-*Python, Streamlit, Twilio, NASA POWER API, ML, Data Analytics*  
-- IVR-based crop recommendation platform assisting **500+ farmers**  
+### 🌾 Agri Guru – Farmer Assistance Platform  
+*Python, Streamlit, Twilio, NASA POWER API*  
+- Built an IVR-based crop and weather advisory platform supporting farmers  
 
-### 😴 Driver Drowsiness Detection System  
-*Python, MediaPipe, Computer Vision*  
-- Real-time driver alert system achieving **95% fatigue detection accuracy**  
+### 💬 Explainable AI-based Sentiment Analysis  
+*Python, ANN, SHAP, LIME*  
+- Built an explainable sentiment analysis model using ANN, integrating SHAP and LIME for decision interpretation  
 
-### 🩺 Multiple Disease Prediction Tool  
-*Python, ML, Image Processing, SHAP, LIME*  
-- ML diagnostic system with **97% accuracy**; explainable AI included  
+### 🩺 Causal AI-based Multiple Disease Prediction Tool  
+*Python, ML, Causal Nex*  
+- Developed a multi-disease prediction system enriched with Causal AI insights  
 
-### 🧠 Causal AI-based Alzheimer Disease Prediction  
-*Python, ANN, Recursive Feature Elimination*  
-- Predictive model improving early Alzheimer diagnosis by **20%**  
 
 ---
 
 ## 🏆 Hackathons  
 
-**Infosys Global Hackathon – 2nd Place (Hyderabad Region)**  
-- Built offline-first IVR Farmer Assistant platform; placed **2nd among 100+ teams**  
+**Infosys Global Hackathon – 2nd Place (Hyderabad Region)** *(Oct 2025)*  
+- Built an IVR-based agricultural assistance platform that guides farmers with crop and weather insights  
+- Placed **2nd among 100+ teams**  
+
+**IBM ICE Day Hackathon – 1st Place (Kalasalingam University, Madurai)** *(Apr 2023)*  
+- Developed a Causal-AI powered multi-disease prediction system using X-rays with CNN and sequential model architecture  
+
 
 ---
 
