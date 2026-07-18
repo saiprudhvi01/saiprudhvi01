@@ -100,12 +100,6 @@ Open to opportunities in **Software Engineering**, **AI/ML**, **Robotics**, and 
 - Designed ML/DL pipelines for scalable AI-driven applications  
 - Implemented Python, NLP, and Computer Vision components for intelligent automation  
 
-**IIT Bhubaneswar – Software Engineering Intern** *(May 2023 – Completed)*  
-- Developed robotics software modules in Python & C++, boosting efficiency by **15%**  
-- Built cross-platform UIs in QML for autonomous systems, reducing user time by **20%**  
-- Integrated sensors & cameras with **99.5% real-time data availability**  
-- Applied OpenCV & MediaPipe for real-time computer vision, cutting latency by **10%**  
-
 
 ---
 
