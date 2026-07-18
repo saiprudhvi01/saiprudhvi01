@@ -143,10 +143,8 @@ DOI: 10.1109/NMITCON58196.2023.10276170
 
 ---
 
-## 📊 GitHub Stats  
-
-![Sai Prudhvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiprudhvi01&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiprudhvi01&layout=compact&theme=tokyonight)   
+## 📊 GitHub Contributions
+ 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/saiprudhvi01)  
  
 
