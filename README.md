@@ -476,7 +476,13 @@ combining ML with causal insights.
 <!--                       ACHIEVEMENTS                         -->
 <!-- ========================================================= -->
 
+<!-- ========================================================= -->
+<!--                       ACHIEVEMENTS                        -->
+<!-- ========================================================= -->
+
 <h2 align="center">🏆 ACHIEVEMENTS</h2>
+
+<br>
 
 <div align="center">
 
@@ -486,37 +492,55 @@ combining ML with causal insights.
 
 <td width="50%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/2nd-place.png"/>
+<h1>🥈</h1>
 
 <h2>TOP 2</h2>
 
-<b>Infosys Global Hackathon 2025</b>
+<img src="https://img.shields.io/badge/INFOSYS_GLOBAL_HACKATHON-2025-667EEA?style=for-the-badge"/>
 
 <br><br>
 
-Hyderabad Region
+<b>Hyderabad Region</b>
 
 <br><br>
 
-IVR-based agricultural assistance platform
+<img src="https://img.shields.io/badge/ACHIEVEMENT-TOP%202-FFD700?style=flat-square"/>
+
+<br><br>
+
+Built an <b>IVR-based agricultural assistance platform</b>
+providing crop and weather insights for farmers.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DOMAIN-AI%20%7C%20AGRICULTURE%20%7C%20IVR-00B894?style=flat-square"/>
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/1st-place-ribbon.png"/>
+<h1>🥇</h1>
 
 <h2>1ST PLACE</h2>
 
-<b>IBM ICE Day 2023</b>
+<img src="https://img.shields.io/badge/IBM_ICE_DAY-2023-764BA2?style=for-the-badge"/>
 
 <br><br>
 
-Technical Paper Presentation
+<b>Technical Paper Presentation</b>
 
 <br><br>
 
-AI-based disease prediction system
+<img src="https://img.shields.io/badge/ACHIEVEMENT-1ST%20PLACE-FFD700?style=flat-square"/>
+
+<br><br>
+
+Presented an <b>AI-based disease prediction system</b>
+using machine learning and deep learning techniques.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DOMAIN-AI%20%7C%20MACHINE%20LEARNING-0984E3?style=flat-square"/>
 
 </td>
 
@@ -526,7 +550,17 @@ AI-based disease prediction system
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🥈%20TOP%202%20%E2%80%A2%20INFOSYS%202025-00D9FF?style=for-the-badge"/>
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/🥇%201ST%20PLACE%20%E2%80%A2%20IBM%202023-00D9FF?style=for-the-badge"/>
+
+</div>
 
 <!-- ========================================================= -->
 <!--                    RESEARCH PUBLICATION                   -->
