@@ -4,29 +4,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Sai%20Prudhvi%20Bodempudi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full-Stack%20%7C%20Robotics&descAlignY=57&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Sai%20Prudhvi%20Bodempudi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full-Stack%20%7C%20Robotics&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
 <!-- ========================================================= -->
-<!--                      ANIMATED INTRO                       -->
+<!--                    ANIMATED INTRO                         -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Engineer+with+1+Year+of+Professional+Experience;Building+AI-Powered+Applications;Engineering+Full-Stack+Systems;Machine+Learning+%7C+Computer+Vision;Robotics+%7C+SLAM+%7C+LiDAR;Turning+Ideas+Into+Working+Systems" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=saiprudhvi01&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/saiprudhvi01?label=FOLLOWERS&style=for-the-badge&color=203A43"/>
-
-<img src="https://img.shields.io/github/stars/saiprudhvi01?label=STARS&style=for-the-badge&color=2C5364"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+1+Year+Professional+Experience;AI-Powered+Application+Development;Full-Stack+%7C+Backend+Engineering;Machine+Learning+%7C+Computer+Vision;Robotics+%7C+SLAM+%7C+LiDAR;Building+Real-World+Software+Systems" />
 
 </div>
 
@@ -39,19 +27,19 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/saiprudhvi-bodempudi11">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/saiprudhvi01">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://saiprudhvi01.github.io">
-<img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="mailto:saiprudhvibodempudi11@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -68,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/1%20YEAR-PROFESSIONAL%20EXPERIENCE-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/1%20YEAR%20EXPERIENCE-00D9FF?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/AI%20%2B%20SOFTWARE%20%2B%20ROBOTICS-203A43?style=for-the-badge"/>
 
@@ -76,13 +64,9 @@
 
 <br>
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
-
-</div>
-
-<br>
+<!-- ========================================================= -->
+<!--                    VISUAL SKILL GRID                     -->
+<!-- ========================================================= -->
 
 <div align="center">
 
@@ -92,7 +76,7 @@
 
 <td width="25%" align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="65"/>
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
 
 <h3>SOFTWARE</h3>
 
@@ -102,37 +86,29 @@
 
 <img src="https://img.shields.io/badge/APIs-00D9FF?style=flat-square"/>
 
-<br>
-
 <img src="https://img.shields.io/badge/Backend-203A43?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Full--Stack-2C5364?style=flat-square"/>
 
 </td>
 
 <td width="25%" align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch" width="65"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="55"/>
 
 <h3>AI / ML</h3>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-FF9F43?style=flat-square"/>
+<img src="https://img.shields.io/badge/ML-FF9F43?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/Deep%20Learning-764BA2?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/NLP-00B894?style=flat-square"/>
 
-<br>
-
 <img src="https://img.shields.io/badge/LLMs-0984E3?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-E17055?style=flat-square"/>
 
 </td>
 
 <td width="25%" align="center">
 
-<img src="https://skillicons.dev/icons?i=opencv" width="65"/>
+<img src="https://skillicons.dev/icons?i=opencv" width="55"/>
 
 <h3>VISION</h3>
 
@@ -140,19 +116,15 @@
 
 <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Image%20Processing-E17055?style=flat-square"/>
-
-<br>
-
 <img src="https://img.shields.io/badge/ANN-6C5CE7?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Prediction-0984E3?style=flat-square"/>
+<img src="https://img.shields.io/badge/Real--Time-0984E3?style=flat-square"/>
 
 </td>
 
 <td width="25%" align="center">
 
-<img src="https://img.icons8.com/fluency/96/robot-2.png" width="65"/>
+<img src="https://img.icons8.com/fluency/96/robot-2.png" width="55"/>
 
 <h3>ROBOTICS</h3>
 
@@ -162,11 +134,7 @@
 
 <img src="https://img.shields.io/badge/Navigation-00B894?style=flat-square"/>
 
-<br>
-
 <img src="https://img.shields.io/badge/Mapping-0984E3?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Path%20Planning-E17055?style=flat-square"/>
 
 </td>
 
@@ -179,40 +147,34 @@
 <br>
 
 <!-- ========================================================= -->
-<!--                     ENGINEERING FLOW                      -->
+<!--                    SHORT VISUAL STRIP                    -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="90%"/>
+<img src="https://img.shields.io/badge/BUILD-00D9FF?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/INTEGRATE-764BA2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TEST-00B894?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DEPLOY-E17055?style=for-the-badge"/>
+
+</div>
 
 <br>
 
-<h3>IDEA</h3>
+<div align="center">
 
-⬇️
+<img src="https://img.shields.io/badge/AI-🤖-203A43?style=flat-square"/>
 
-<h3>DESIGN</h3>
+<img src="https://img.shields.io/badge/Software-⚙️-203A43?style=flat-square"/>
 
-⬇️
+<img src="https://img.shields.io/badge/Vision-👁️-203A43?style=flat-square"/>
 
-<h3>BUILD</h3>
+<img src="https://img.shields.io/badge/Robotics-🦾-203A43?style=flat-square"/>
 
-⬇️
-
-<h3>INTEGRATE</h3>
-
-⬇️
-
-<h3>TEST</h3>
-
-⬇️
-
-<h3>DEPLOY</h3>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="90%"/>
+<img src="https://img.shields.io/badge/Systems-🔧-203A43?style=flat-square"/>
 
 </div>
 
@@ -230,7 +192,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/1%20YEAR-ENGINEERING%20EXPERIENCE-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/1%20YEAR-PROFESSIONAL%20EXPERIENCE-203A43?style=for-the-badge"/>
 
 </div>
 
@@ -250,7 +212,7 @@
 
 <br>
 
-Software Modules
+Software Development
 
 </td>
 
@@ -300,20 +262,20 @@ Testing & Debugging
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-Software%20Development-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Linux-Development-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Testing-Engineering-00B894?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Testing-00B894?style=for-the-badge"/>
 
 </div>
 
 ---
 
 <!-- ========================================================= -->
-<!--                     TECHNOLOGY STACK                      -->
+<!--                    TECHNOLOGY STACK                       -->
 <!-- ========================================================= -->
 
 <h2 align="center">🧠 TECHNOLOGY STACK</h2>
@@ -371,7 +333,7 @@ Testing & Debugging
 ---
 
 <!-- ========================================================= -->
-<!--                       FEATURED PROJECTS                    -->
+<!--                    FEATURED PROJECTS                       -->
 <!-- ========================================================= -->
 
 <h2 align="center">🔥 FEATURED PROJECTS</h2>
@@ -404,14 +366,15 @@ Testing & Debugging
 
 <br><br>
 
-Autonomous navigation using  
+Autonomous navigation using
+
 <b>LiDAR + SLAM + Offline OSM Maps</b>
 
 <br><br>
 
 <a href="https://github.com/saiprudhvi01/martin-navigation">
 
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/EXPLORE-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
@@ -435,14 +398,15 @@ Autonomous navigation using
 
 <br><br>
 
-IVR-based agricultural assistance  
+IVR-based agricultural assistance
+
 with crop and weather insights.
 
 <br><br>
 
 <a href="https://github.com/saiprudhvi01/agri-guru">
 
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/EXPLORE-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
@@ -470,8 +434,9 @@ with crop and weather insights.
 
 <br><br>
 
-NLP sentiment analysis with  
-<b>SHAP + LIME explanations</b>
+NLP sentiment analysis with
+
+<b>SHAP + LIME</b>
 
 </td>
 
@@ -493,7 +458,8 @@ NLP sentiment analysis with
 
 <br><br>
 
-AI-based prediction system  
+AI-based prediction system
+
 combining ML with causal insights.
 
 </td>
@@ -563,7 +529,7 @@ AI-based disease prediction system
 ---
 
 <!-- ========================================================= -->
-<!--                     RESEARCH PUBLICATION                  -->
+<!--                    RESEARCH PUBLICATION                   -->
 <!-- ========================================================= -->
 
 <h2 align="center">📚 RESEARCH PUBLICATION</h2>
@@ -572,7 +538,10 @@ AI-based disease prediction system
 
 <img src="https://img.icons8.com/fluency/96/book.png"/>
 
-<h3>Alzheimer Disease Prediction Using Recursive Feature Elimination and Artificial Neural Network</h3>
+<h3>
+Alzheimer Disease Prediction Using Recursive Feature Elimination
+and Artificial Neural Network
+</h3>
 
 <img src="https://img.shields.io/badge/IEEE-PUBLISHED-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
 
@@ -589,49 +558,7 @@ AI-based disease prediction system
 ---
 
 <!-- ========================================================= -->
-<!--                       PROJECT JOURNEY                     -->
-<!-- ========================================================= -->
-
-<h2 align="center">🚀 ENGINEERING JOURNEY</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/IDEA-667EEA?style=for-the-badge"/>
-
-➜
-
-<img src="https://img.shields.io/badge/ARCHITECTURE-764BA2?style=for-the-badge"/>
-
-➜
-
-<img src="https://img.shields.io/badge/DEVELOPMENT-0984E3?style=for-the-badge"/>
-
-➜
-
-<img src="https://img.shields.io/badge/AI%20INTEGRATION-00B894?style=for-the-badge"/>
-
-➜
-
-<img src="https://img.shields.io/badge/TESTING-E17055?style=for-the-badge"/>
-
-➜
-
-<img src="https://img.shields.io/badge/DEPLOYMENT-FF6B6B?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420"/>
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                     GITHUB ANALYTICS                      -->
+<!--                       GITHUB STATS                        -->
 <!-- ========================================================= -->
 
 <h2 align="center">📊 GITHUB ACTIVITY</h2>
@@ -655,61 +582,17 @@ AI-based disease prediction system
 ---
 
 <!-- ========================================================= -->
-<!--                  CONTRIBUTION ANIMATION                   -->
+<!--                         FOOTER                            -->
 <!-- ========================================================= -->
-
-<h2 align="center">🐍 CONTRIBUTION JOURNEY</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saiprudhvi01/saiprudhvi01/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<br>
 
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                         CONNECT                           -->
-<!-- ========================================================= -->
-
-<h2 align="center">🌐 CONNECT</h2>
-
-<div align="center">
-
-<a href="https://linkedin.com/in/saiprudhvi-bodempudi11">
-
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="https://github.com/saiprudhvi01">
-
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<a href="https://saiprudhvi01.github.io">
-
-<img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-
-</a>
-
-<a href="mailto:saiprudhvibodempudi11@gmail.com">
-
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-</div>
+<img src="https://img.shields.io/badge/BUILDING%20WITH-AI%20%7C%20SOFTWARE%20%7C%20ROBOTICS-00D9FF?style=for-the-badge"/>
 
 <br><br>
 
-<!-- ========================================================= -->
-<!--                          FOOTER                           -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=130&section=footer" width="100%"/>
 
 </div>
