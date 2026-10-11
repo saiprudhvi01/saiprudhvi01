@@ -108,11 +108,26 @@ CGPA: 8.10/10
 <summary><b>📂 Explore selected projects from my resume</b></summary>
 
 
-Project	What it does	Core technologies
-SynapWork — AI-Powered Enterprise Intelligence Platform	Connects workplace knowledge sources and supports context-aware search, work-pattern analysis, and agent-based workflows.	RAG, AI agents, APIs, knowledge graphs
-Secure AI — Secure Assessment & Interview Platform	Uses proctoring signals and AI analysis to support assessment monitoring and answer-originality insights.	Python, React, OpenCV, AI agents
-Farmer AI Assistant — AgriGuru	Provides weather-based crop insights, crop-disease detection, and agricultural assistance.	Python, CNN, Weather APIs, Twilio
-Martin — Autonomous Robotic Navigation	Explores autonomous navigation using mapping and localization techniques.	Python, ROS, SLAM, LiDAR
+1. SynapWork — AI-Powered Enterprise Intelligence Platform
+- Connected workplace knowledge sources such as GitHub, Slack, Jira, email, and cloud storage.
+- Implemented context-aware enterprise search using Retrieval-Augmented Generation (RAG) and knowledge graphs.
+- Developed AI-driven work-pattern analysis and agent-based workflow automation.
+- Technologies: RAG, AI Agents, APIs, Knowledge Graphs.
+2. Secure AI — Secure Assessment and Interview Platform
+- Developed an AI-powered platform for secure online assessments and interviews.
+- Implemented proctoring features using face detection, gaze tracking, and suspicious-activity monitoring.
+- Integrated AI-based answer analysis, voice transcription, and plagiarism detection to generate candidate reports.
+- Technologies: Python, React, OpenCV, AI Agents.
+3. Farmer AI Assistant — AgriGuru
+- Developed an AI-powered agricultural assistance platform for farmers.
+- Integrated weather APIs to provide crop recommendations and environmental insights.
+- Implemented CNN-based crop disease detection using plant images and integrated Twilio for communication.
+- Technologies: Python, CNN, Weather APIs, Twilio.
+4. Martin — Autonomous Robotic Navigation System
+- Developed software components for autonomous robotic navigation.
+- Explored mapping and localization techniques for environment awareness and navigation.
+- Integrated LiDAR and SLAM concepts to support robotic mapping and navigation.
+- Technologies: Python, ROS, SLAM, LiDAR.
 
 
 </details>
