@@ -18,7 +18,110 @@
 
 </div>
 
-<br>
+
+<!-- ========================================================= -->
+<!--              ANIMATED RESUME SNAPSHOT                     -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=650&color=FF7A18&center=true&vCenter=true&width=900&lines=Turning+Ideas+into+Intelligent+Solutions;Software+Engineer+%7C+AI%2FML+%7C+Full-Stack;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Automation;Building+Practical+AI+Products+for+Real-World+Problems" alt="Animated resume headline" />
+
+<img src="https://img.shields.io/badge/EXPERIENCE-1%20YEAR-FF7A18?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20SOFTWARE%20%7C%20FULL--STACK-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LOCATION-HYDERABAD%2C%20INDIA-FFFFFF?style=for-the-badge&logo=googlemaps&logoColor=FF7A18"/>
+
+</div>
+
+<div align="center">
+
+<a href="https://drive.google.com/file/d/1v9NXtuiYzi4mjdweIIOT2hGADWca6F8c/view">
+<img src="https://img.shields.io/badge/📄%20OPEN%20FULL%20RESUME-FF7A18?style=for-the-badge&logo=googledrive&logoColor=white" alt="Open Full Resume"/>
+</a>
+
+</div>
+
+<h2 align="center">🚀 RESUME AT A GLANCE</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">👨‍💻 PROFESSIONAL SUMMARY</h3>
+
+Software Engineer with 1 year of experience in full-stack and AI-driven application development. Skilled in JavaScript, TypeScript, React.js, Node.js, REST APIs, SQL, MongoDB, and Generative AI. Experienced in building responsive applications, integrating AI and third-party APIs, developing backend services, and working with cloud and deployment technologies.
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🧰 CORE SKILLS</h3>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-FF7A18?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs_%7C_RAG-764BA2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine_Learning-0984E3?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL_%7C_MongoDB-00A884?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker_%7C_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-203A43?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">💼 EXPERIENCE</h3>
+
+Vir Innovations — Software Engineer Trainee
+Sep 2025 – Jul 2026
+- Developed Python modules and software components for autonomous robotic systems.
+- Built reusable modules for real-time data processing and API-based communication.
+- Worked on debugging, testing, performance optimization, Linux, and Git-based workflows.
+Pheme Software Pvt. Ltd. — AI/ML Student Intern
+May 2024 – Jun 2024
+- Developed a Python sentiment-analysis application using machine learning and NLP.
+- Built data-preprocessing and model-evaluation pipelines.
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🎓 EDUCATION</h3>
+
+Kalasalingam University, Tamil Nadu
+B.Tech — Computer Science and Engineering (AI & ML)
+June 2021 – May 2025
+CGPA: 8.10/10
+<h3 align="center">🏆 HIGHLIGHTS</h3>
+
+- Top 2 — Infosys Global Hackathon 2025, Hyderabad Region
+- 1st Place — IBM ICE DAY 2023, Technical Paper Presentation
+- IEEE Publication — Alzheimer Disease Prediction Using Recursive Feature Elimination and Artificial Neural Network
+</td>
+</tr>
+</table>
+
+</div>
+
+<details>
+<summary><b>📂 Explore selected projects from my resume</b></summary>
+
+
+Project	What it does	Core technologies
+SynapWork — AI-Powered Enterprise Intelligence Platform	Connects workplace knowledge sources and supports context-aware search, work-pattern analysis, and agent-based workflows.	RAG, AI agents, APIs, knowledge graphs
+Secure AI — Secure Assessment & Interview Platform	Uses proctoring signals and AI analysis to support assessment monitoring and answer-originality insights.	Python, React, OpenCV, AI agents
+Farmer AI Assistant — AgriGuru	Provides weather-based crop insights, crop-disease detection, and agricultural assistance.	Python, CNN, Weather APIs, Twilio
+Martin — Autonomous Robotic Navigation	Explores autonomous navigation using mapping and localization techniques.	Python, ROS, SLAM, LiDAR
+
+
+</details>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2400&pause=700&color=FF7A18&center=true&vCenter=true&width=850&lines=BUILD+%E2%86%92+INTEGRATE+AI+%E2%86%92+TEST+%E2%86%92+DEPLOY;From+Code+to+Real-World+Impact" alt="Animated engineering workflow" />
+
+</div>
 
 <!-- ========================================================= -->
 <!--                       SOCIAL LINKS                        -->
@@ -42,11 +145,12 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://drive.google.com/file/d/1v9NXtuiYzi4mjdweIIOT2hGADWca6F8c/view">
+<img src="https://img.shields.io/badge/VIEW%20RESUME-FF7A18?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Resume"/>
+</a>
+
 </div>
 
-<br>
-
----
 
 <!-- ========================================================= -->
 <!--                  ENGINEER IDENTITY                       -->
@@ -62,7 +166,6 @@
 
 </div>
 
-<br>
 
 <!-- ========================================================= -->
 <!--                    VISUAL SKILL GRID                     -->
@@ -144,7 +247,6 @@
 
 </div>
 
-<br>
 
 <!-- ========================================================= -->
 <!--                    SHORT VISUAL STRIP                    -->
@@ -162,7 +264,6 @@
 
 </div>
 
-<br>
 
 <div align="center">
 
@@ -178,8 +279,6 @@
 
 </div>
 
----
-
 <!-- ========================================================= -->
 <!--                  PROFESSIONAL EXPERIENCE                   -->
 <!-- ========================================================= -->
@@ -190,13 +289,13 @@
 
 <img src="https://img.shields.io/badge/VIR%20INNOVATIONS-SOFTWARE%20ENGINEER-00D9FF?style=for-the-badge"/>
 
-<br><br>
+
+
 
 <img src="https://img.shields.io/badge/1%20YEAR-PROFESSIONAL%20EXPERIENCE-203A43?style=for-the-badge"/>
 
 </div>
 
-<br>
 
 <div align="center">
 
@@ -210,10 +309,7 @@
 
 <b>PYTHON</b>
 
-<br>
-
 Software Development
-
 </td>
 
 <td width="25%" align="center">
@@ -222,10 +318,7 @@ Software Development
 
 <b>REAL-TIME</b>
 
-<br>
-
 Data Processing
-
 </td>
 
 <td width="25%" align="center">
@@ -234,10 +327,7 @@ Data Processing
 
 <b>APIs</b>
 
-<br>
-
 System Communication
-
 </td>
 
 <td width="25%" align="center">
@@ -246,10 +336,7 @@ System Communication
 
 <b>QUALITY</b>
 
-<br>
-
 Testing & Debugging
-
 </td>
 
 </tr>
@@ -258,7 +345,6 @@ Testing & Debugging
 
 </div>
 
-<br>
 
 <div align="center">
 
@@ -272,8 +358,6 @@ Testing & Debugging
 
 </div>
 
----
-
 <!-- ========================================================= -->
 <!--                    TECHNOLOGY STACK                       -->
 <!-- ========================================================= -->
@@ -286,13 +370,15 @@ Testing & Debugging
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&perline=5"/>
 
-<br><br>
+
+
 
 <h3>AI / MACHINE LEARNING</h3>
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=5"/>
 
-<br><br>
+
+
 
 <img src="https://img.shields.io/badge/Machine%20Learning-FF9F43?style=for-the-badge"/>
 
@@ -304,19 +390,22 @@ Testing & Debugging
 
 <img src="https://img.shields.io/badge/Generative%20AI-E17055?style=for-the-badge"/>
 
-<br><br>
+
+
 
 <h3>FULL-STACK / BACKEND</h3>
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,flask,git,github,linux,docker&perline=7"/>
 
-<br><br>
+
+
 
 <h3>DATABASES</h3>
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&perline=3"/>
 
-<br><br>
+
+
 
 <h3>AI DEVELOPMENT</h3>
 
@@ -330,15 +419,12 @@ Testing & Debugging
 
 </div>
 
----
-
 <!-- ========================================================= -->
 <!--                    FEATURED PROJECTS                       -->
 <!-- ========================================================= -->
 
 <h2 align="center">🔥 FEATURED PROJECTS</h2>
 
-<br>
 
 <div align="center">
 
@@ -354,7 +440,7 @@ Testing & Debugging
 
 <b>Autonomous Robotic Navigation</b>
 
-<br><br>
+
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
@@ -364,13 +450,13 @@ Testing & Debugging
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square"/>
 
-<br><br>
+
+
 
 Autonomous navigation using
-
 <b>LiDAR + SLAM + Offline OSM Maps</b>
 
-<br><br>
+
 
 <a href="https://github.com/saiprudhvi01/martin-navigation">
 
@@ -388,7 +474,7 @@ Autonomous navigation using
 
 <b>AI Farmer Assistance Platform</b>
 
-<br><br>
+
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
@@ -396,13 +482,13 @@ Autonomous navigation using
 
 <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white"/>
 
-<br><br>
+
+
 
 IVR-based agricultural assistance
-
 with crop and weather insights.
 
-<br><br>
+
 
 <a href="https://github.com/saiprudhvi01/agri-guru">
 
@@ -424,7 +510,7 @@ with crop and weather insights.
 
 <b>Sentiment Analysis</b>
 
-<br><br>
+
 
 <img src="https://img.shields.io/badge/ANN-6C5CE7?style=flat-square"/>
 
@@ -432,12 +518,11 @@ with crop and weather insights.
 
 <img src="https://img.shields.io/badge/LIME-E17055?style=flat-square"/>
 
-<br><br>
+
+
 
 NLP sentiment analysis with
-
 <b>SHAP + LIME</b>
-
 </td>
 
 <td width="50%" align="center">
@@ -448,7 +533,7 @@ NLP sentiment analysis with
 
 <b>Machine Learning + Causal AI</b>
 
-<br><br>
+
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
@@ -456,12 +541,11 @@ NLP sentiment analysis with
 
 <img src="https://img.shields.io/badge/Causal%20AI-0984E3?style=flat-square"/>
 
-<br><br>
+
+
 
 AI-based prediction system
-
 combining ML with causal insights.
-
 </td>
 
 </tr>
@@ -469,8 +553,6 @@ combining ML with causal insights.
 </table>
 
 </div>
-
----
 
 <!-- ========================================================= -->
 <!--                       ACHIEVEMENTS                         -->
@@ -482,7 +564,6 @@ combining ML with causal insights.
 
 <h2 align="center">🏆 ACHIEVEMENTS</h2>
 
-<br>
 
 <div align="center">
 
@@ -498,20 +579,22 @@ combining ML with causal insights.
 
 <img src="https://img.shields.io/badge/INFOSYS_GLOBAL_HACKATHON-2025-667EEA?style=for-the-badge"/>
 
-<br><br>
+
+
 
 <b>Hyderabad Region</b>
 
-<br><br>
+
 
 <img src="https://img.shields.io/badge/ACHIEVEMENT-TOP%202-FFD700?style=flat-square"/>
 
-<br><br>
+
+
 
 Built an <b>IVR-based agricultural assistance platform</b>
 providing crop and weather insights for farmers.
 
-<br><br>
+
 
 <img src="https://img.shields.io/badge/DOMAIN-AI%20%7C%20AGRICULTURE%20%7C%20IVR-00B894?style=flat-square"/>
 
@@ -525,20 +608,22 @@ providing crop and weather insights for farmers.
 
 <img src="https://img.shields.io/badge/IBM_ICE_DAY-2023-764BA2?style=for-the-badge"/>
 
-<br><br>
+
+
 
 <b>Technical Paper Presentation</b>
 
-<br><br>
+
 
 <img src="https://img.shields.io/badge/ACHIEVEMENT-1ST%20PLACE-FFD700?style=flat-square"/>
 
-<br><br>
+
+
 
 Presented an <b>AI-based disease prediction system</b>
 using machine learning and deep learning techniques.
 
-<br><br>
+
 
 <img src="https://img.shields.io/badge/DOMAIN-AI%20%7C%20MACHINE%20LEARNING-0984E3?style=flat-square"/>
 
@@ -550,14 +635,12 @@ using machine learning and deep learning techniques.
 
 </div>
 
-<br>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/🥈%20TOP%202%20%E2%80%A2%20INFOSYS%202025-00D9FF?style=for-the-badge"/>
 
-&nbsp;&nbsp;&nbsp;
-
+   
 <img src="https://img.shields.io/badge/🥇%201ST%20PLACE%20%E2%80%A2%20IBM%202023-00D9FF?style=for-the-badge"/>
 
 </div>
@@ -579,7 +662,8 @@ and Artificial Neural Network
 
 <img src="https://img.shields.io/badge/IEEE-PUBLISHED-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
 
-<br><br>
+
+
 
 <a href="https://doi.org/10.1109/NMITCON58196.2023.10276170">
 
@@ -588,8 +672,6 @@ and Artificial Neural Network
 </a>
 
 </div>
-
----
 
 <!-- ========================================================= -->
 <!--                       GITHUB STATS                        -->
@@ -605,7 +687,6 @@ and Artificial Neural Network
 
 </div>
 
-<br>
 
 <div align="center">
 
@@ -613,19 +694,17 @@ and Artificial Neural Network
 
 </div>
 
----
-
 <!-- ========================================================= -->
 <!--                         FOOTER                            -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<br>
 
 <img src="https://img.shields.io/badge/BUILDING%20WITH-AI%20%7C%20SOFTWARE%20%7C%20ROBOTICS-00D9FF?style=for-the-badge"/>
 
-<br><br>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=130&section=footer" width="100%"/>
 
